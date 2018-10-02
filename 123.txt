@@ -6,4 +6,4 @@ hello
 create a branch
 
 
-there is another one!
+this is conflict merge!
